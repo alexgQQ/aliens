@@ -13,9 +13,10 @@ pipenv install
 
 ## Run
 ```
-pipenv shell
-python agent.py --help
+python run app.py --help
 ```
+
+![](alien.gif)
 
 ## Reference
 Good reference codebase: https://github.com/maurock/snake-ga/
