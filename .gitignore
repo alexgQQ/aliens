@@ -1,0 +1,5 @@
+Pipfile.lock
+weights.hdf5
+
+*.vscode
+*.DS_Store
